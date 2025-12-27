@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gargi Singh  <br>🎓 BCA Student | Full Stack Developer Learner  <br><br>💻 Learning Web Development  <br>🌱 Growing every day with code  <br>🚀 Aspiring Full Stack Developer  <br><br>✨ Always curious to learn new technologies
+👋 Hello! I'm Gargi Singh  <br><br>🎓 I have completed my 12th (Commerce with Informatics Practices)  <br>📚 Currently pursuing BCA  <br>💻 Also a Full Stack Development student  <br><br>🔧 Skills & Learning:  <br>* Frontend: HTML | CSS | JavaScript  <br>* Backend: Learning Node.js & APIs  <br>* Database: Basics  <br><br>🚀 What I'm Working On:  <br>* Personal projects  <br>* Improving GitHub profile  <br>* Exploring full stack development  <br><br>🤝 Open to learning, collaboration & guidance  <br><br>⚡ Fun Fact:  <br>Learning code one bug at a time 
 
 
 ## 🌐 Socials:
